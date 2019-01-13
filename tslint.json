@@ -1,0 +1,14 @@
+{
+  "extends": ["tslint:recommended"],
+  "defaultSeverity": "error",
+  "rules": {
+    "trailing-comma": [
+      true,
+      {
+        "multiline": "always",
+        "singleline": "never"
+      }
+    ],
+    "quotemark": [true, "single"]
+  }
+}

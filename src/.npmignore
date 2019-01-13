@@ -1,0 +1,16 @@
+# Files
+tsconfig*
+.log
+
+# Misc
+node_modules/
+webpack/**/*
+webpack*.js
+doc(s?)
+report(s?)
+test(s?)
+src
+
+
+# All Dotfiles
+.*

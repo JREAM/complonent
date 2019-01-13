@@ -1,0 +1,12 @@
+# That Apple Junk LoLz
+.DS_Store
+
+# Big Fatty
+node_modules/
+reports
+lib
+
+# Other
+*.log
+logs
+yarn-*
